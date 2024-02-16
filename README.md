@@ -1,2 +1,2 @@
 # git_test
-Odin test repo
+This is the first repo created for my Odins project classes
